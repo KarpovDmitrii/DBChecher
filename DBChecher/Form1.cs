@@ -427,7 +427,6 @@ namespace DBChecher
                 {
 
                     var list = new Dictionary<int, int>();
-
                     foreach (DataRow row in mostCommonVals.Rows)
                     {
 
