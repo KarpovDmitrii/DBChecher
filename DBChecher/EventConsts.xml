@@ -1,0 +1,1355 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfEntryForEvents xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">0</Key>
+    <Value xsi:type="xsd:string">Пустое событие</Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1302000</Key>
+    <Value xsi:type="xsd:string">Включение</Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1302001</Key>
+    <Value xsi:type="xsd:string">Выключение</Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1302002</Key>
+    <Value xsi:type="xsd:string">Связь восстановлена</Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1302003</Key>
+    <Value xsi:type="xsd:string">Связь потеряна</Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1302004</Key>
+    <Value xsi:type="xsd:string">В работе</Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1302005</Key>
+    <Value xsi:type="xsd:string">Неисправность</Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1302006</Key>
+    <Value xsi:type="xsd:string">Самодиагностика прошла успешно</Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1302007</Key>
+    <Value xsi:type="xsd:string">Самодиагностика прошла неудачно</Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1302008</Key>
+    <Value xsi:type="xsd:string">Программный сброс</Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1302009</Key>
+    <Value xsi:type="xsd:string">Аппаратный сброс</Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1302010</Key>
+    <Value xsi:type="xsd:string">Требование уставок</Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1302011</Key>
+    <Value xsi:type="xsd:string">Уставки приняты</Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1302012</Key>
+    <Value xsi:type="xsd:string">Уставки не приняты</Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1302021</Key>
+    <Value xsi:type="xsd:string">Удалены все события из очереди</Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1302020</Key>
+    <Value xsi:type="xsd:string">Запрос синхронизации времени</Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1302022</Key>
+    <Value xsi:type="xsd:string">Запрос синхронизации времени</Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1302023</Key>
+    <Value xsi:type="xsd:string">Коррекция времени 5 секунд</Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1302025</Key>
+    <Value xsi:type="xsd:string">Перезапуск</Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1302026</Key>
+    <Value xsi:type="xsd:string">Программный перезапуск</Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1302027</Key>
+    <Value xsi:type="xsd:string">Аппаратный перезапуск</Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1301002</Key>
+    <Value xsi:type="xsd:string">Обмен по каналу связи разрешен</Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1301003</Key>
+    <Value xsi:type="xsd:string">Обмен по каналу связи запрещен</Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1301010</Key>
+    <Value xsi:type="xsd:string">Переход на основной канал</Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1301011</Key>
+    <Value xsi:type="xsd:string">Переход на резервный канал</Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1301020</Key>
+    <Value xsi:type="xsd:string">Канал основной</Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1301021</Key>
+    <Value xsi:type="xsd:string">Канал резервный</Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1301022</Key>
+    <Value xsi:type="xsd:string">Канал резервный 2</Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1302500</Key>
+    <Value xsi:type="xsd:string">Есть основное питание</Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1302501</Key>
+    <Value xsi:type="xsd:string">Нет основного питания</Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1302502</Key>
+    <Value xsi:type="xsd:string">Есть резервное питание</Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1302503</Key>
+    <Value xsi:type="xsd:string">Нет резервного питания</Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1302504</Key>
+    <Value xsi:type="xsd:string">Переход на резервное питание</Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1302505</Key>
+    <Value xsi:type="xsd:string">Переход на основное питание</Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1302506</Key>
+    <Value xsi:type="xsd:string">Начало периода перерыва питания</Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1302507</Key>
+    <Value xsi:type="xsd:string">Окончание периода перерыва питания</Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1302508</Key>
+    <Value xsi:type="xsd:string">Переход в режим ТУ</Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1302509</Key>
+    <Value xsi:type="xsd:string">Выход из режима ТУ</Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1302510</Key>
+    <Value xsi:type="xsd:string">Батарейка ОЗУ исправна</Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1302511</Key>
+    <Value xsi:type="xsd:string">Батарейка ОЗУ неисправна</Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1302512</Key>
+    <Value xsi:type="xsd:string">Обогрев включен</Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1302513</Key>
+    <Value xsi:type="xsd:string">Обогрев выключен</Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1302520</Key>
+    <Value xsi:type="xsd:string">Команда принята к исполнению</Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1302521</Key>
+    <Value xsi:type="xsd:string">Команда выполнена успешно</Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1302522</Key>
+    <Value xsi:type="xsd:string">Нет ответа от КП</Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1302523</Key>
+    <Value xsi:type="xsd:string">Ошибка в структуре ответа</Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1302524</Key>
+    <Value xsi:type="xsd:string">Команда не принята к исполнению</Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1302525</Key>
+    <Value xsi:type="xsd:string">Нет прав на выполнение команды</Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1302526</Key>
+    <Value xsi:type="xsd:string">Выполняется предыдущая команда ТУ на КП</Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1302527</Key>
+    <Value xsi:type="xsd:string">Отключена активность входа ТУ</Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1302528</Key>
+    <Value xsi:type="xsd:string">Сбой при выполнении команды</Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300000</Key>
+    <Value xsi:type="xsd:string">В работе</Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300001</Key>
+    <Value xsi:type="xsd:string">Ошибка обмена со счетчиком</Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300002</Key>
+    <Value xsi:type="xsd:string">Неисправность устройства</Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300003</Key>
+    <Value xsi:type="xsd:string">Неверный пароль</Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300004</Key>
+    <Value xsi:type="xsd:string">Ошибка сохранения параметров</Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300005</Key>
+    <Value xsi:type="xsd:string">Устройство не отвечает </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300006</Key>
+    <Value xsi:type="xsd:string">Невыполнимая команда  </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300007</Key>
+    <Value xsi:type="xsd:string">Нет памяти для выполнения команды  </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300008</Key>
+    <Value xsi:type="xsd:string">Ошибочное подключение устройства </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300009</Key>
+    <Value xsi:type="xsd:string">Канал к счетчику занят другим пользователем </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300010</Key>
+    <Value xsi:type="xsd:string">Приняты уставки </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300011</Key>
+    <Value xsi:type="xsd:string">Удалены уставки </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300012</Key>
+    <Value xsi:type="xsd:string">Ошибка открытия порта </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300013</Key>
+    <Value xsi:type="xsd:string">Переполнение очереди </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300014</Key>
+    <Value xsi:type="xsd:string">Тайм-аут  </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300015</Key>
+    <Value xsi:type="xsd:string">Произведена замена счетчика </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300016</Key>
+    <Value xsi:type="xsd:string">СОЕВ Произведена коррекция времени </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300017</Key>
+    <Value xsi:type="xsd:string">Ошибка инициализации порта </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300018</Key>
+    <Value xsi:type="xsd:string">Отключение питания </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300019</Key>
+    <Value xsi:type="xsd:string">Включение питания </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300020</Key>
+    <Value xsi:type="xsd:string">Нет данных </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300021</Key>
+    <Value xsi:type="xsd:string">Ошибка выбранного номера порта </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300022</Key>
+    <Value xsi:type="xsd:string">Открыта клеммная крышка </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300023</Key>
+    <Value xsi:type="xsd:string">Закрыта клеммная крышка </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300024</Key>
+    <Value xsi:type="xsd:string">Несанкционированный доступ к счетчику </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300025</Key>
+    <Value xsi:type="xsd:string">Ua отсутствие напряжения </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300026</Key>
+    <Value xsi:type="xsd:string">Ua наличие напряжения </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300027</Key>
+    <Value xsi:type="xsd:string">Ub отсутствие напряжения </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300028</Key>
+    <Value xsi:type="xsd:string">Ub наличие напряжения </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300029</Key>
+    <Value xsi:type="xsd:string">Uc отсутствие напряжения </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300030</Key>
+    <Value xsi:type="xsd:string">Uc наличие напряжения </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300031</Key>
+    <Value xsi:type="xsd:string">Переход на резервное питание </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300032</Key>
+    <Value xsi:type="xsd:string">Переход на основное питание </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300033</Key>
+    <Value xsi:type="xsd:string">Самодиагностика прошла успешно </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300034</Key>
+    <Value xsi:type="xsd:string">Самодиагностика прошла неудачно </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300035</Key>
+    <Value xsi:type="xsd:string">Изменение даты счетчика </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300036</Key>
+    <Value xsi:type="xsd:string">Изменение пароля в счетчике </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300037</Key>
+    <Value xsi:type="xsd:string">Модификация программы в счетчике </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300038</Key>
+    <Value xsi:type="xsd:string">Обновление ПО устройства </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300039</Key>
+    <Value xsi:type="xsd:string">Ошибка чтения данных из архива </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300040</Key>
+    <Value xsi:type="xsd:string">СОЕВ Выход коррекции времени за 5 секунд </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300041</Key>
+    <Value xsi:type="xsd:string">Ошибка в файле состояния счетчика </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300042</Key>
+    <Value xsi:type="xsd:string">Ошибка в профиле счетчика </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300043</Key>
+    <Value xsi:type="xsd:string">Частота сети за нижней границей нормально допустимых значений </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300044</Key>
+    <Value xsi:type="xsd:string">Частота сети в диапазоне нормально допустимых значений </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300045</Key>
+    <Value xsi:type="xsd:string">Частота сети за верхней границей нормально допустимых значений </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300046</Key>
+    <Value xsi:type="xsd:string">Ua пересечение порога 2 вниз </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300047</Key>
+    <Value xsi:type="xsd:string">Ua в диапазоне нормально допустимых значений </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300048</Key>
+    <Value xsi:type="xsd:string">Ua пересечение порога1 вверх </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300049</Key>
+    <Value xsi:type="xsd:string">Ub пересечение порога 2 вниз </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300050</Key>
+    <Value xsi:type="xsd:string">Ub в диапазоне нормально допустимых значений </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300051</Key>
+    <Value xsi:type="xsd:string">Ub пересечение порога1 вверх </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300052</Key>
+    <Value xsi:type="xsd:string">Uc пересечение порога 2 вниз </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300053</Key>
+    <Value xsi:type="xsd:string">Uc в диапазоне нормально допустимых значений </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300054</Key>
+    <Value xsi:type="xsd:string">Uc пересечение порога1 вверх </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300055</Key>
+    <Value xsi:type="xsd:string">Частота сети за нижней границей предельно допустимых значений  </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300056</Key>
+    <Value xsi:type="xsd:string">Частота сети в диапазоне предельно допустимых значений </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300057</Key>
+    <Value xsi:type="xsd:string">Частота сети за верхней границей предельно допустимых значений </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300058</Key>
+    <Value xsi:type="xsd:string">Ua за нижней границей предельно допустимых значений </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300059</Key>
+    <Value xsi:type="xsd:string">Ua в диапазоне предельно допустимых значений </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300060</Key>
+    <Value xsi:type="xsd:string">Ua за верхней границей предельно допустимых значений </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300061</Key>
+    <Value xsi:type="xsd:string">Ub за нижней границей предельно допустимых значений  </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300062</Key>
+    <Value xsi:type="xsd:string">Ub в диапазоне предельно допустимых значений </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300063</Key>
+    <Value xsi:type="xsd:string">Ub за верхней границей предельно допустимых значений </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300064</Key>
+    <Value xsi:type="xsd:string">Uc за нижней границей предельно допустимых значений </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300065</Key>
+    <Value xsi:type="xsd:string">Uc в диапазоне предельно допустимых значений  </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300066</Key>
+    <Value xsi:type="xsd:string">Uc за верхней границей предельно допустимых значений </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300067</Key>
+    <Value xsi:type="xsd:string">Сброс опроса счетчика  </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300068</Key>
+    <Value xsi:type="xsd:string">Сброс накопленных данных энергии в счетчике </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300069</Key>
+    <Value xsi:type="xsd:string">Завершение запроса за интервал </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300070</Key>
+    <Value xsi:type="xsd:string">Pabc пересечение порога 2 вниз </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300071</Key>
+    <Value xsi:type="xsd:string">Pabc в диапазоне нормально допустимых значений </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300072</Key>
+    <Value xsi:type="xsd:string">Pabc пересечение порога 1 вверх </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300073</Key>
+    <Value xsi:type="xsd:string">Реактивная мощность за нижней границей нормально допустимых значений  </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300074</Key>
+    <Value xsi:type="xsd:string">Реактивная мощность в диапазоне нормально допустимых значений  </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300075</Key>
+    <Value xsi:type="xsd:string">Реактивная мощность за верхней границей нормально допустимых значений  </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300076</Key>
+    <Value xsi:type="xsd:string">Ia пересечение порога 2 вниз </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300077</Key>
+    <Value xsi:type="xsd:string">Ia в диапазоне нормально допустимых значений </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300078</Key>
+    <Value xsi:type="xsd:string">Ia пересечение порога 1 вверх </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300079</Key>
+    <Value xsi:type="xsd:string">Ib пересечение порога 2 вниз </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300080</Key>
+    <Value xsi:type="xsd:string">Ib в диапазоне нормально допустимых значений </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300081</Key>
+    <Value xsi:type="xsd:string">Ib пересечение порога 1 вверх </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300082</Key>
+    <Value xsi:type="xsd:string">Ic пересечение порога 2 вниз </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300083</Key>
+    <Value xsi:type="xsd:string">Ic в диапазоне нормально допустимых значений </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300084</Key>
+    <Value xsi:type="xsd:string">Ic пересечение порога 1 вверх </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300085</Key>
+    <Value xsi:type="xsd:string">Частота сети вне диапазона нормально допустимых значений </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300086</Key>
+    <Value xsi:type="xsd:string">Частота сети вне диапазона предельно допустимых значений </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300087</Key>
+    <Value xsi:type="xsd:string">Ua вне диапазона нормально допустимых значений  </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300088</Key>
+    <Value xsi:type="xsd:string">Ua вне диапазона предельно допустимых значений  </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300089</Key>
+    <Value xsi:type="xsd:string">Ub вне диапазона нормально допустимых значений  </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300090</Key>
+    <Value xsi:type="xsd:string">Ub вне диапазона предельно допустимых значений  </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300091</Key>
+    <Value xsi:type="xsd:string">Uc вне диапазона нормально допустимых значений  </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300092</Key>
+    <Value xsi:type="xsd:string">Uc вне диапазона предельно допустимых значений  </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300093</Key>
+    <Value xsi:type="xsd:string">Ошибка в конфигурации СЭЭ </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300094</Key>
+    <Value xsi:type="xsd:string">Данная модификация счетчика не поддерживается текущей версией ПО </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300095</Key>
+    <Value xsi:type="xsd:string">Подтверждение выдачи телекоманды на счетчик  </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300096</Key>
+    <Value xsi:type="xsd:string">Напряжение прямой последовательности за нижней границей нормально допустимых значений </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300097</Key>
+    <Value xsi:type="xsd:string">Напряжение прямой последовательности в диапазоне нормально допустимых значений </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300098</Key>
+    <Value xsi:type="xsd:string">Напряжение прямой последовательности за верхней границей нормально допустимых значений </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300099</Key>
+    <Value xsi:type="xsd:string">Напряжение прямой последовательности за нижней границей предельно допустимых значений </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300100</Key>
+    <Value xsi:type="xsd:string">Напряжение прямой последовательности в диапазоне предельно допустимых значений </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300101</Key>
+    <Value xsi:type="xsd:string">Напряжение прямой последовательности за верхней границей предельно допустимых значений </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300102</Key>
+    <Value xsi:type="xsd:string">Напряжение прямой последовательности вне диапазона нормально допустимых значений  </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300103</Key>
+    <Value xsi:type="xsd:string">Напряжение прямой последовательности вне диапазона предельно допустимых значений  </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300104</Key>
+    <Value xsi:type="xsd:string">Доступ заблокирован по превышению предела отказов в доступе</Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300105</Key>
+    <Value xsi:type="xsd:string">Сброс EEPROM</Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300106</Key>
+    <Value xsi:type="xsd:string">Сброс показаний</Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300107</Key>
+    <Value xsi:type="xsd:string">Сброс профиля</Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300108</Key>
+    <Value xsi:type="xsd:string">Сброс пароля</Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300109</Key>
+    <Value xsi:type="xsd:string">СОЕВ Изменение корректора суточного хода часов</Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300110</Key>
+    <Value xsi:type="xsd:string">Изменение коэффициента трансформации</Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300111</Key>
+    <Value xsi:type="xsd:string">Изменение периода интегрирования</Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300112</Key>
+    <Value xsi:type="xsd:string">Установка даты и времени</Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300113</Key>
+    <Value xsi:type="xsd:string">Изменение времени</Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300114</Key>
+    <Value xsi:type="xsd:string">Перезагрузка</Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300115</Key>
+    <Value xsi:type="xsd:string">Перезагрузка по сторожевому таймеру</Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300116</Key>
+    <Value xsi:type="xsd:string">Перезагрузка по переполнению стека  </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300117</Key>
+    <Value xsi:type="xsd:string">Перезагрузка по опустошению стека </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300118</Key>
+    <Value xsi:type="xsd:string">СОЕВ Отправлена команда установки корректора хода часов </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300119</Key>
+    <Value xsi:type="xsd:string">Начало поиска недостающих данных  </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300120</Key>
+    <Value xsi:type="xsd:string">Ошибка в структуре ответа СЭЭ </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300121</Key>
+    <Value xsi:type="xsd:string">Ошибка преобразования расширенного профиля в старый </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300122</Key>
+    <Value xsi:type="xsd:string">Ошибка в алгоритмах ПО </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300123</Key>
+    <Value xsi:type="xsd:string">Корректировка уставок на счетчике </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300124</Key>
+    <Value xsi:type="xsd:string">Реверс энергии  </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300125</Key>
+    <Value xsi:type="xsd:string">Перегрузка по току  </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300126</Key>
+    <Value xsi:type="xsd:string">Ошибка работы PLС (МП-04)  </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300127</Key>
+    <Value xsi:type="xsd:string">Группа кодов состояния КП </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300128</Key>
+    <Value xsi:type="xsd:string">Группа кодов действий КП  </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300129</Key>
+    <Value xsi:type="xsd:string">Вскрытия корпуса счетчика  </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300130</Key>
+    <Value xsi:type="xsd:string">Вход ТС включен  </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300131</Key>
+    <Value xsi:type="xsd:string">Вход ТС отключен </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300132</Key>
+    <Value xsi:type="xsd:string">Выход ТУ включен </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300133</Key>
+    <Value xsi:type="xsd:string">Выход ТУ отключен </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300134</Key>
+    <Value xsi:type="xsd:string">Объект ТУ включен  </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300135</Key>
+    <Value xsi:type="xsd:string">Объект ТУ отключен  </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300136</Key>
+    <Value xsi:type="xsd:string">Недостаточный уровень доступа для выполнения команды </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300137</Key>
+    <Value xsi:type="xsd:string">Группа кодов событий в формате СЭЭ </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300138</Key>
+    <Value xsi:type="xsd:string">Прочитан запрошенный файл из ИУ в контроллер </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300139</Key>
+    <Value xsi:type="xsd:string">Шум в канале связи СЭЭ </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300140</Key>
+    <Value xsi:type="xsd:string">Несоответствие расхода по показаниям с расходом по профилю СЭЭ </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300141</Key>
+    <Value xsi:type="xsd:string">Группа кодов состояния СЭЭ </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300142</Key>
+    <Value xsi:type="xsd:string">Группа кодов конфигурации СЭЭ </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300143</Key>
+    <Value xsi:type="xsd:string">Идентификатор СЭЭ </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300144</Key>
+    <Value xsi:type="xsd:string">Тип адресации ПО  </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300145</Key>
+    <Value xsi:type="xsd:string">Разница времени СЭЭ и ИВКЭ </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300146</Key>
+    <Value xsi:type="xsd:string">Текущее время СЭЭ и смещение от GMT </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300147</Key>
+    <Value xsi:type="xsd:string">Текущий обработанный срез и состояние по СЭЭ </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300148</Key>
+    <Value xsi:type="xsd:string">СОЕВ Произведена коррекция времени (в мс) </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300149</Key>
+    <Value xsi:type="xsd:string">СОЕВ Отправлена отложенная коррекция времени в мс / Установка корректора суточного хода в мс  </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300150</Key>
+    <Value xsi:type="xsd:string">СОЕВ Отправлена установка времени СЭЭ утилитой на хх минут </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300151</Key>
+    <Value xsi:type="xsd:string">Выдана команда объекту ТУ: Включить  </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300152</Key>
+    <Value xsi:type="xsd:string">Выдана команда объекту ТУ: Отключить </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300153</Key>
+    <Value xsi:type="xsd:string">Выдана команда выходу ТУ: Включить  </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300154</Key>
+    <Value xsi:type="xsd:string">Выдана команда выходу ТУ: Отключить </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300155</Key>
+    <Value xsi:type="xsd:string">Результат выполнения команды. В данных события 0/1 (отрицательное/положительное подтверждение) </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300156</Key>
+    <Value xsi:type="xsd:string">СОЕВ Изменение корректора суточного хода часов </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300157</Key>
+    <Value xsi:type="xsd:string">СОЕВ Отложенная коррекция времени  </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300158</Key>
+    <Value xsi:type="xsd:string">СОЕВ Отложенная коррекция времени (=157) </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300159</Key>
+    <Value xsi:type="xsd:string">СОЕВ Широковещательная коррекция времени  </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300160</Key>
+    <Value xsi:type="xsd:string">СОЕВ Отправлена отложенная коррекция времени в мс / Установка корректора суточного хода в мс (=149) </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300161</Key>
+    <Value xsi:type="xsd:string">СОЕВ Отправлена коррекция времени СЭЭ  </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300162</Key>
+    <Value xsi:type="xsd:string">СОЕВ Отправлена широковещательная коррекция времени СЭЭ </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300163</Key>
+    <Value xsi:type="xsd:string">Перезагрузка по команде  </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300164</Key>
+    <Value xsi:type="xsd:string">Перезагрузка для защиты низкоприоритетных задач </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300165</Key>
+    <Value xsi:type="xsd:string">Перезагрузка из-за ошибки работы с FRAM памятью  </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300166</Key>
+    <Value xsi:type="xsd:string">Ошибка: в таблице с коэффициентами во FLASH-памяти </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300167</Key>
+    <Value xsi:type="xsd:string">Ошибка: расчета данных счетчиком </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300168</Key>
+    <Value xsi:type="xsd:string">Перезагрузка из-за ошибки работы с часами реального времени </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300169</Key>
+    <Value xsi:type="xsd:string">Батарея часов разряжена </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300170</Key>
+    <Value xsi:type="xsd:string">Ошибка: работы с часами реального времени  </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300171</Key>
+    <Value xsi:type="xsd:string">Ошибка: записи в LCD  </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300172</Key>
+    <Value xsi:type="xsd:string">Ошибка: включения счетчика исполнения 57 В в сеть 220 В  </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300208</Key>
+    <Value xsi:type="xsd:string">Pb в диапазоне нормально допустимых значений </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300209</Key>
+    <Value xsi:type="xsd:string">Pb пересечение порога 1 вверх </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300210</Key>
+    <Value xsi:type="xsd:string">Pc пересечение порога 2 вниз </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300211</Key>
+    <Value xsi:type="xsd:string">Pc в диапазоне нормально допустимых значений </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300212</Key>
+    <Value xsi:type="xsd:string">Pc пересечение порога 1 вверх </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300213</Key>
+    <Value xsi:type="xsd:string">T пересечение порога 2 вниз </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300214</Key>
+    <Value xsi:type="xsd:string">T в диапазоне нормально допустимых значений </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300215</Key>
+    <Value xsi:type="xsd:string">T пересечение порога 1 вверх </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300216</Key>
+    <Value xsi:type="xsd:string">Очистка журналов событий </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300217</Key>
+    <Value xsi:type="xsd:string">Неверное чередование фаз </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300218</Key>
+    <Value xsi:type="xsd:string">Верное чередование фаз </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300219</Key>
+    <Value xsi:type="xsd:string">Батарея часов в норме </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300220</Key>
+    <Value xsi:type="xsd:string">Начало воздействия магнитным полем </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300221</Key>
+    <Value xsi:type="xsd:string">Окончание воздействия магнитным полем </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300222</Key>
+    <Value xsi:type="xsd:string">Наличие напряжения после отключения реле </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300223</Key>
+    <Value xsi:type="xsd:string">Отсутствие напряжения после отключения реле </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300224</Key>
+    <Value xsi:type="xsd:string">Отключение реле превышение температуры </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300225</Key>
+    <Value xsi:type="xsd:string">Разблокировка реле температура в норме </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300226</Key>
+    <Value xsi:type="xsd:string">Открыта крышка измерительной части счетчика </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300227</Key>
+    <Value xsi:type="xsd:string">Закрыта крышка измерительной части счетчика </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300228</Key>
+    <Value xsi:type="xsd:string">Наличие фазного напряжения фазы A после отключения реле фазы A </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300229</Key>
+    <Value xsi:type="xsd:string">Отсутствие фазного напряжения фазы A после отключения реле фазы A </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300230</Key>
+    <Value xsi:type="xsd:string">Наличие фазного напряжения фазы B после отключения реле фазы B </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300231</Key>
+    <Value xsi:type="xsd:string">Отсутствие фазного напряжения фазы B после отключения реле фазы B </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300232</Key>
+    <Value xsi:type="xsd:string">Наличие фазного напряжения фазы C после отключения реле фазы C </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300233</Key>
+    <Value xsi:type="xsd:string">Отсутствие фазного напряжения фазы C после отключения реле фазы C </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300234</Key>
+    <Value xsi:type="xsd:string">Обновление ПО PLC модуля </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300235</Key>
+    <Value xsi:type="xsd:string">Обновление ПО RF модуля </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300236</Key>
+    <Value xsi:type="xsd:string">Обновление ПО ZigBee модуля </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300237</Key>
+    <Value xsi:type="xsd:string">Отключение реле с кнопок счетчика </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300238</Key>
+    <Value xsi:type="xsd:string">Отключение реле с кнопок счетчика фаза A </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300239</Key>
+    <Value xsi:type="xsd:string">Отключение реле с кнопок счетчика фаза B </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300240</Key>
+    <Value xsi:type="xsd:string">Отключение реле с кнопок счетчика фаза C </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300241</Key>
+    <Value xsi:type="xsd:string">Отключение реле по уставкам </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300242</Key>
+    <Value xsi:type="xsd:string">Отключение реле по уставкам фаза A </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300243</Key>
+    <Value xsi:type="xsd:string">Отключение реле по уставкам фаза B </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300244</Key>
+    <Value xsi:type="xsd:string">Отключение реле по уставкам фаза C </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300245</Key>
+    <Value xsi:type="xsd:string">Отключение реле по каналу связи </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300246</Key>
+    <Value xsi:type="xsd:string">Отключение реле по каналу связи фаза A </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300247</Key>
+    <Value xsi:type="xsd:string">Отключение реле по каналу связи фаза B </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300248</Key>
+    <Value xsi:type="xsd:string">Отключение реле по каналу связи фаза C </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300249</Key>
+    <Value xsi:type="xsd:string">Запрещение местного управления реле </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300250</Key>
+    <Value xsi:type="xsd:string">Запрещение местного управления реле фаза A </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300251</Key>
+    <Value xsi:type="xsd:string">Запрещение местного управления реле фаза B </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300252</Key>
+    <Value xsi:type="xsd:string">Запрещение местного управления реле фаза C </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300256</Key>
+    <Value xsi:type="xsd:string">Включение реле с кнопок счетчика </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300257</Key>
+    <Value xsi:type="xsd:string">Включение реле с кнопок счетчика фаза A </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300258</Key>
+    <Value xsi:type="xsd:string">Включение реле с кнопок счетчика фаза B </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300259</Key>
+    <Value xsi:type="xsd:string">Включение реле с кнопок счетчика фаза C </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300260</Key>
+    <Value xsi:type="xsd:string">Включение реле по уставкам </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300261</Key>
+    <Value xsi:type="xsd:string">Включение реле по уставкам фаза A </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300262</Key>
+    <Value xsi:type="xsd:string">Включение реле по уставкам фаза B </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300263</Key>
+    <Value xsi:type="xsd:string">Включение реле по уставкам фаза C </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300264</Key>
+    <Value xsi:type="xsd:string">Включение реле по каналу связи </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300265</Key>
+    <Value xsi:type="xsd:string">Включение реле по каналу связи фаза A </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300266</Key>
+    <Value xsi:type="xsd:string">Включение реле по каналу связи фаза B </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300267</Key>
+    <Value xsi:type="xsd:string">Включение реле по каналу связи фаза C </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300268</Key>
+    <Value xsi:type="xsd:string">Очистка журнала мониторинга </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300269</Key>
+    <Value xsi:type="xsd:string">Ошибки работы с БД: Неверная длина сообщения </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300270</Key>
+    <Value xsi:type="xsd:string">Разрешение местного управления реле </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300271</Key>
+    <Value xsi:type="xsd:string">Разрешение местного управления реле фаза A </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300272</Key>
+    <Value xsi:type="xsd:string">Разрешение местного управления реле фаза B </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300273</Key>
+    <Value xsi:type="xsd:string">Разрешение местного управления реле фаза C </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300274</Key>
+    <Value xsi:type="xsd:string">Начало корректировки времени </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300275</Key>
+    <Value xsi:type="xsd:string">Конец корректировки времени </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300276</Key>
+    <Value xsi:type="xsd:string">Начало установки времени </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300277</Key>
+    <Value xsi:type="xsd:string">Конец установки времени </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300278</Key>
+    <Value xsi:type="xsd:string">PLC. Поиск сети </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300279</Key>
+    <Value xsi:type="xsd:string">PLC. Базовая станция </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300280</Key>
+    <Value xsi:type="xsd:string">PLC. Удаленная станция </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300281</Key>
+    <Value xsi:type="xsd:string">PLC. Устройство родитель нестабильно </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300282</Key>
+    <Value xsi:type="xsd:string">PLC. NVR Nack </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300283</Key>
+    <Value xsi:type="xsd:string">PLC. Бесконечность </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300284</Key>
+    <Value xsi:type="xsd:string">PLC. Инициализация </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300285</Key>
+    <Value xsi:type="xsd:string">PLC. Невозможно запустить таймер </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300286</Key>
+    <Value xsi:type="xsd:string">PLC. NVR Отказал </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300287</Key>
+    <Value xsi:type="xsd:string">PLC. NVR Enq </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300288</Key>
+    <Value xsi:type="xsd:string">PLC. Недействительный физический адрес счетчика </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300289</Key>
+    <Value xsi:type="xsd:string">PLC. Отключен по запросу приложения </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300291</Key>
+    <Value xsi:type="xsd:string">PLC. Отказ подключения из-за переполненой базы ID в базовой станции </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300292</Key>
+    <Value xsi:type="xsd:string">PLC. Отказ подключения приложением базовой станции </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300293</Key>
+    <Value xsi:type="xsd:string">PLC. Не подключен без причины </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300294</Key>
+    <Value xsi:type="xsd:string">PLC. Серийный номер вне допустимого диапазона </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300295</Key>
+    <Value xsi:type="xsd:string">PLC. Дублированный физический адрес счетчика </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300296</Key>
+    <Value xsi:type="xsd:string">PLC. Неправильный физический адрес счетчика </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300297</Key>
+    <Value xsi:type="xsd:string">PLC. Неправильный ключ сети </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300298</Key>
+    <Value xsi:type="xsd:string">Iдифф пересечение порога 2 вниз </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300299</Key>
+    <Value xsi:type="xsd:string">Iдифф в диапазоне нормально допустимых значений </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300302</Key>
+    <Value xsi:type="xsd:string">Iдифф пересечение порога 1 вверх </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300303</Key>
+    <Value xsi:type="xsd:string">Pa пересечение порога 2 вниз </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300304</Key>
+    <Value xsi:type="xsd:string">Pa в диапазоне нормально допустимых значений </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300305</Key>
+    <Value xsi:type="xsd:string">Pa пересечение порога 1 вверх </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300306</Key>
+    <Value xsi:type="xsd:string">Pb пересечение порога 2 вниз </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1300307</Key>
+    <Value xsi:type="xsd:string">Служебное событие </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1302600</Key>
+    <Value xsi:type="xsd:string">Изменен верхний предупредительный предел</Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1302601</Key>
+    <Value xsi:type="xsd:string">Изменен нижний предупредительный предел</Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1302602</Key>
+    <Value xsi:type="xsd:string">Изменен верхний аварийный предел</Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1302603</Key>
+    <Value xsi:type="xsd:string">Изменен нижний аварийный предел</Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1302604</Key>
+    <Value xsi:type="xsd:string">Получено новое значение. </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1302605</Key>
+    <Value xsi:type="xsd:string">Значение в норме (внутри пределов). </Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1302606</Key>
+    <Value xsi:type="xsd:string">Верхний предупредительный предел</Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1302607</Key>
+    <Value xsi:type="xsd:string">Нижний предупредительный предел</Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1302608</Key>
+    <Value xsi:type="xsd:string">Верхний аварийный предел</Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1302609</Key>
+    <Value xsi:type="xsd:string">Нижний аварийный предел</Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1302610</Key>
+    <Value xsi:type="xsd:string">Инверсия включена</Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1302611</Key>
+    <Value xsi:type="xsd:string">Инверсия выключена</Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1302612</Key>
+    <Value xsi:type="xsd:string">Есть оперативное напряжение</Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1302613</Key>
+    <Value xsi:type="xsd:string">Нет оперативного напряжения</Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1304000</Key>
+    <Value xsi:type="xsd:string">Плакат установлен</Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1304001</Key>
+    <Value xsi:type="xsd:string">Плакат снят</Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1304010</Key>
+    <Value xsi:type="xsd:string">Ручной ввод оператором</Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1303000</Key>
+    <Value xsi:type="xsd:string">Пересечение порога вверх</Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1303001</Key>
+    <Value xsi:type="xsd:string">Пересечение порога вниз</Value>
+  </EntryForEvents>
+  <EntryForEvents>
+    <Key xsi:type="xsd:int">1303002</Key>
+    <Value xsi:type="xsd:string">Получено альтернативное значение. </Value>
+  </EntryForEvents>
+</ArrayOfEntryForEvents>
